@@ -1,0 +1,18 @@
+#mail:
+#  host: smtp.gmail.com
+#  port: 587
+#  username: subscriptonmanagmentmailsender@gmail.com
+#  password: 32620155
+#  properties:
+#    mail:
+#      smtp:
+#        ssl:
+#          trust: "*"
+#        auth: true
+#        starttls:
+#          enable: true
+#        connectiontimeout: 5000
+#        timeout: 3000
+#        writetimeout: 5000
+
+#"C:\\Users\\Abdullayev\\Desktop\\TurAIAgent\\src\\main\\resources\\back.jpg"
